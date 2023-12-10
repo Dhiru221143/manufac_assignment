@@ -1,0 +1,52 @@
+/* Add this CSS to your styles.css file or within a <style> tag in your React component */
+
+.stats-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .stats-table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .stats-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+  }
+  
+  .stats-table th,
+  .stats-table td {
+    padding: 12px 15px;
+  }
+  
+  .stats-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+  }
+  
+  .stats-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+  }
+  
+  .stats-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+  }
+  
+  .title {
+    color: #009879;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .subtitle {
+    color: #333333;
+    text-align: center;
+    margin: 10px;
+  }
+  

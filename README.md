@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots
-![Alt text](/img/manufac_s.png?raw=true "Optional Title")
 
+![alt tag](https://github.com/Dhiru221143/manufac_assignment/blob/main/src/img/manufac_s.png)
 
 ## Steps to run
 1. npm i
